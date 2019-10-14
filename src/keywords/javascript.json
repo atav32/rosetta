@@ -1,0 +1,464 @@
+{
+  "abstract": {
+    "en": "abstract",
+    "es": "abstracto",
+    "fr": "",
+    "ru": "",
+    "zh": "抽象"
+  },
+  "arguments": {
+    "en": "arguments",
+    "es": "argumentos",
+    "fr": "",
+    "ru": "",
+    "zh": "论点"
+  },
+  "asynchronous": {
+    "en": "asynchronous",
+    "es": "asincrónico",
+    "fr": "",
+    "ru": "",
+    "zh": "异步"
+  },
+  "await": {
+    "en": "await",
+    "es": "esperar",
+    "fr": "",
+    "ru": "",
+    "zh": "等待"
+  },
+  "boolean": {
+    "en": "boolean",
+    "es": "booleano",
+    "fr": "",
+    "ru": "",
+    "zh": "布尔值"
+  },
+  "break": {
+    "en": "break",
+    "es": "rotura",
+    "fr": "",
+    "ru": "",
+    "zh": "打破"
+  },
+  "byte": {
+    "en": "byte",
+    "es": "byte",
+    "fr": "",
+    "ru": "",
+    "zh": "字节"
+  },
+  "case": {
+    "en": "case",
+    "es": "caso",
+    "fr": "",
+    "ru": "",
+    "zh": "案件"
+  },
+  "catch": {
+    "en": "catch",
+    "es": "captura",
+    "fr": "",
+    "ru": "",
+    "zh": "抓住"
+  },
+  "char": {
+    "en": "char",
+    "es": "carta",
+    "fr": "",
+    "ru": "",
+    "zh": "字"
+  },
+  "class": {
+    "en": "class",
+    "es": "clase",
+    "fr": "",
+    "ru": "",
+    "zh": "类"
+  },
+  "const": {
+    "en": "const",
+    "es": "constante",
+    "fr": "",
+    "ru": "",
+    "zh": "永"
+  },
+  "continue": {
+    "en": "continue",
+    "es": "continuar",
+    "fr": "",
+    "ru": "",
+    "zh": "继续"
+  },
+  "debugger": {
+    "en": "debugger",
+    "es": "depurador",
+    "fr": "",
+    "ru": "",
+    "zh": "调试器"
+  },
+  "default": {
+    "en": "default",
+    "es": "defecto",
+    "fr": "",
+    "ru": "",
+    "zh": "默认"
+  },
+  "delete": {
+    "en": "delete",
+    "es": "eliminar",
+    "fr": "",
+    "ru": "",
+    "zh": "删除"
+  },
+  "do": {
+    "en": "do",
+    "es": "hacer",
+    "fr": "",
+    "ru": "",
+    "zh": "做"
+  },
+  "double": {
+    "en": "double",
+    "es": "doble",
+    "fr": "",
+    "ru": "",
+    "zh": "双"
+  },
+  "else": {
+    "en": "else",
+    "es": "más",
+    "fr": "",
+    "ru": "",
+    "zh": "或"
+  },
+  "enum": {
+    "en": "enum",
+    "es": "enumeración",
+    "fr": "",
+    "ru": "",
+    "zh": "枚举"
+  },
+  "export": {
+    "en": "export",
+    "es": "exportar",
+    "fr": "",
+    "ru": "",
+    "zh": "出口"
+  },
+  "extends": {
+    "en": "extends",
+    "es": "extiende",
+    "fr": "",
+    "ru": "",
+    "zh": "延伸"
+  },
+  "false": {
+    "en": "false",
+    "es": "falso",
+    "fr": "",
+    "ru": "",
+    "zh": "否"
+  },
+  "final": {
+    "en": "final",
+    "es": "final",
+    "fr": "",
+    "ru": "",
+    "zh": "终极"
+  },
+  "finally": {
+    "en": "finally",
+    "es": "finalmente",
+    "fr": "",
+    "ru": "",
+    "zh": "最后"
+  },
+  "float": {
+    "en": "float",
+    "es": "flotador",
+    "fr": "",
+    "ru": "",
+    "zh": "浮"
+  },
+  "for": {
+    "en": "for",
+    "es": "para",
+    "fr": "",
+    "ru": "",
+    "zh": "为"
+  },
+  "function": {
+    "en": "function",
+    "es": "función",
+    "fr": "",
+    "ru": "",
+    "zh": "功能"
+  },
+  "goto": {
+    "en": "goto",
+    "es": "ir",
+    "fr": "",
+    "ru": "",
+    "zh": "去"
+  },
+  "if": {
+    "en": "if",
+    "es": "Si",
+    "fr": "",
+    "ru": "",
+    "zh": "如果"
+  },
+  "implements": {
+    "en": "implements",
+    "es": "implementos",
+    "fr": "",
+    "ru": "",
+    "zh": "贯彻"
+  },
+  "import": {
+    "en": "import",
+    "es": "importar",
+    "fr": "",
+    "ru": "",
+    "zh": "进口"
+  },
+  "in": {
+    "en": "in",
+    "es": "en",
+    "fr": "",
+    "ru": "",
+    "zh": "在"
+  },
+  "Infinity": {
+    "en": "Infinity",
+    "es": "infinito",
+    "fr": "",
+    "ru": "",
+    "zh": "无穷"
+  },
+  "instance of": {
+    "en": "instance ",
+    "es": "instanciade",
+    "fr": "",
+    "ru": "",
+    "zh": "的实例"
+  },
+  "int": {
+    "en": "int",
+    "es": "entero",
+    "fr": "",
+    "ru": "",
+    "zh": "整数"
+  },
+  "interface": {
+    "en": "interface",
+    "es": "interfaz",
+    "fr": "",
+    "ru": "",
+    "zh": "界面"
+  },
+  "let": {
+    "en": "let",
+    "es": "dejar",
+    "fr": "",
+    "ru": "",
+    "zh": "例如"
+  },
+  "long": {
+    "en": "long",
+    "es": "largo",
+    "fr": "",
+    "ru": "",
+    "zh": "长"
+  },
+  "NaN": {
+    "en": "NaN",
+    "es": "NuN",
+    "fr": "",
+    "ru": "",
+    "zh": "非数字"
+  },
+  "native": {
+    "en": "native",
+    "es": "nativo",
+    "fr": "",
+    "ru": "",
+    "zh": "本机"
+  },
+  "new": {
+    "en": "new",
+    "es": "nuevo",
+    "fr": "",
+    "ru": "",
+    "zh": "新"
+  },
+  "null": {
+    "en": "null",
+    "es": "nulo",
+    "fr": "",
+    "ru": "",
+    "zh": "空值"
+  },
+  "package": {
+    "en": "package",
+    "es": "paquete",
+    "fr": "",
+    "ru": "",
+    "zh": "包"
+  },
+  "private": {
+    "en": "private",
+    "es": "privado",
+    "fr": "",
+    "ru": "",
+    "zh": "私营"
+  },
+  "protected": {
+    "en": "protected",
+    "es": "protegido",
+    "fr": "",
+    "ru": "",
+    "zh": "保护"
+  },
+  "public": {
+    "en": "public",
+    "es": "público",
+    "fr": "",
+    "ru": "",
+    "zh": "公开"
+  },
+  "return": {
+    "en": "return",
+    "es": "regreso",
+    "fr": "",
+    "ru": "",
+    "zh": "退回"
+  },
+  "short": {
+    "en": "short",
+    "es": "corto",
+    "fr": "",
+    "ru": "",
+    "zh": "短"
+  },
+  "static": {
+    "en": "static",
+    "es": "estático",
+    "fr": "",
+    "ru": "",
+    "zh": "静态"
+  },
+  "super": {
+    "en": "super",
+    "es": "súper",
+    "fr": "",
+    "ru": "",
+    "zh": "超"
+  },
+  "switch": {
+    "en": "switch",
+    "es": "cambiar",
+    "fr": "",
+    "ru": "",
+    "zh": "交换机"
+  },
+  "synchronized": {
+    "en": "synchronized",
+    "es": "sincronizado",
+    "fr": "",
+    "ru": "",
+    "zh": "同步"
+  },
+  "this": {
+    "en": "this",
+    "es": "esta",
+    "fr": "",
+    "ru": "",
+    "zh": "这"
+  },
+  "throw": {
+    "en": "throw",
+    "es": "lanzar",
+    "fr": "",
+    "ru": "",
+    "zh": "扔"
+  },
+  "transient": {
+    "en": "transient",
+    "es": "transitorio",
+    "fr": "",
+    "ru": "",
+    "zh": "短暂"
+  },
+  "true": {
+    "en": "true",
+    "es": "cierto",
+    "fr": "",
+    "ru": "",
+    "zh": "正"
+  },
+  "try": {
+    "en": "try",
+    "es": "tratar",
+    "fr": "",
+    "ru": "",
+    "zh": "试"
+  },
+  "typeof": {
+    "en": "typeof",
+    "es": "tipode",
+    "fr": "",
+    "ru": "",
+    "zh": "类型"
+  },
+  "undefined": {
+    "en": "undefined",
+    "es": "indefinido",
+    "fr": "",
+    "ru": "",
+    "zh": "未定义"
+  },
+  "var": {
+    "en": "var",
+    "es": "variable",
+    "fr": "",
+    "ru": "",
+    "zh": "变量"
+  },
+  "void": {
+    "en": "void",
+    "es": "vacío",
+    "fr": "",
+    "ru": "",
+    "zh": "虚空"
+  },
+  "volatile": {
+    "en": "volatile",
+    "es": "volátil",
+    "fr": "",
+    "ru": "",
+    "zh": "不稳"
+  },
+  "while": {
+    "en": "while",
+    "es": "mientras",
+    "fr": "",
+    "ru": "",
+    "zh": "而"
+  },
+  "with": {
+    "en": "with",
+    "es": "con",
+    "fr": "",
+    "ru": "",
+    "zh": "与"
+  },
+  "yield": {
+    "en": "yield",
+    "es": "ceder",
+    "fr": "",
+    "ru": "",
+    "zh": "让"
+  }
+}
